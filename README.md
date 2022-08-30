@@ -183,7 +183,7 @@ The Perl monks have wisdom to share on the matter:
 > change the module's internals as long as the interface remains the same.
 >
 > Remember: the documentation, not the code, defines what a module does.
--- [Ken Williams](http://mathforum.org/ken/perl_modules.html#document)
+-- [Ken Williams](https://web.archive.org/web/20180405021949/http://mathforum.org:80/ken/perl_modules.html)
 
 
 ### Key elements
